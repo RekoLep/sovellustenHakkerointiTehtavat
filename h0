@@ -1,3 +1,16 @@
 Loin yksinkertaisen C-ohjelman joka tulosti hei maailma tekstin. Koodin binääri näytti seuraavalta:
 
 ![image](https://github.com/RekoLep/sovellustenHakkerointiTehtavat/blob/main/binaari.jpg)
+
+Ensiksi sudo apt install vim. Tämän jälkeen vim testi.c johon kirjoitin 
+
+#include <stdio.h>
+
+int main() {
+    printf("hei maailma");
+    return 0;
+}
+
+tallensin tiedoston. Sitten kirjoitin gcc testi.c -o testiC. Tämän jälkeen ajoin tiedoston ./testiC
+
+tulosti: hei maailma
