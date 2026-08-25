@@ -1,6 +1,6 @@
 Loin yksinkertaisen C-ohjelman joka tulosti hei maailma tekstin. Koodin binääri näytti seuraavalta:
 
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Ensiksi sudo apt install vim. Tämän jälkeen vim testi.c johon kirjoitin 
 
