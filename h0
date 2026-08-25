@@ -1,6 +1,6 @@
 Loin yksinkertaisen C-ohjelman joka tulosti hei maailma tekstin. Koodin binääri näytti seuraavalta:
 
-![image](https://github.com/RekoLep/sovellustenHakkerointiTehtavat/blob/main/binaari.jpg)
+
 
 Ensiksi sudo apt install vim. Tämän jälkeen vim testi.c johon kirjoitin 
 
